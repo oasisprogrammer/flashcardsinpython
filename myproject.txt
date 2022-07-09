@@ -1,0 +1,19 @@
+A bot that teaches languages in a conversational style, allowing the user to ask questions. 
+The bot can also guide you through basic procedures, such as painting or cooking. 
+
+The benefit of this project is that it will allow anyone to learn any skill from home with their own personal
+tutor.  
+
+virtual environment -- done
+pip -- done
+
+
+Teach it to interpret human language
+lemmatizer syntax -- done
+lemma exceptions
+
+
+
+teach it to respond to human language
+
+respond with an image or drawing
